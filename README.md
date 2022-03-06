@@ -1,7 +1,12 @@
 # 01-HTML-CSS-Git-CodeRefactor
 
+The URL of the deployed application:
+https://aalink.github.io/01-HTML-CSS-Git-CodeRefactor/
+
 This is the first assignment for the Georgia Tech Coding Boot Camp.
-The goal is to demonstrate the ability of refactoring code while maintaining the look of the website.
+The goal is to demonstrate the ability of refactoring code while maintaining the look of the website depicted below:
+
+![Horiseon web application](assets/images/01-html-css-git-homework-demo.png)
 
 ```
 Semantic HTML is a very important aspect of this assignment for a few reasons:
@@ -17,5 +22,5 @@ Semantic HTML is a very important aspect of this assignment for a few reasons:
 The DRY Principle: "Don't repeat yourself"
 ```
 
-> Redundant code was another issue that needed to be addressed in this assignment. The CSS file presented several violations of the DRY principle.  Over 50 lines of class code was removed.  Then the code that remained from those classes were renamed to something more general, which in turn was more reusable in the HTML file.
+> Redundant code was another issue that needed to be addressed in this assignment. The CSS file presented several violations of the DRY principle.  Over 50 lines of class code was removed.  Then the code that remained from those classes was renamed to something more general, which in turn was more reusable in the HTML file.
 [You can read more about the DRY Principle here.](https://en.wikipedia.org/wiki/Don't_repeat_yourself)
