@@ -6,7 +6,7 @@ https://aalink.github.io/01-HTML-CSS-Git-CodeRefactor/
 This is the first assignment for the Georgia Tech Coding Boot Camp.
 The goal is to demonstrate the ability of refactoring code while maintaining the look of the website depicted below:
 
-![Horiseon web application](assets/images/01-html-css-git-homework-demo.png)
+![Horiseon web application](assets/images/my-code-refactor-Horiseon-Strategies-for-the-Web.png)
 
 ```
 Semantic HTML is a very important aspect of this assignment for a few reasons:
